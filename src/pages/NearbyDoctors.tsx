@@ -850,6 +850,7 @@ const hospitalIcon = L.icon({
   iconAnchor: [16, 32],
   popupAnchor: [0, -32],
 });
+////
 
 // Component for smooth transition when the map center updates.
 const FlyToLocation: React.FC<{ center: LatLngExpression }> = ({ center }) => {
