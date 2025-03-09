@@ -104,7 +104,7 @@
 // interface AuthContextType extends AuthState {
 //   login: (email: string, password: string) => void;
 //   logout: () => void;
-//   resetError: () => void;
+/////   resetError: () => void;
 // }
 
 // // Create the context with an undefined initial value
